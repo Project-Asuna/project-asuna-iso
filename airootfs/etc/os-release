@@ -1,0 +1,10 @@
+PRETTY_NAME="Project Asuna"
+ID=asuna
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://asunaproject.nl"
+DOCUMENTATION_URL="https://asunaproject.nl"
+SUPPORT_URL="https://asunaproject.nl"
+BUG_REPORT_URL="https://asunaproject.nl"
+LOGO=archlinux-logo
